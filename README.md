@@ -1,1 +1,1 @@
-# dicionarios
+Um programa em Python que recebe um número N indicando quantas disciplinas serão informadas. Em seguida, N trios de nome, nota e peso serão informados (nota será um número em ponto flutuante, peso será inteiro positivo). O programa deverá construir um ou mais dicionários e usá-los para resolver o problema. Em seguida, calcularemos alguns valores relativos a essas notas. Esses cálculos devem ser feitos cada um em uma função separada e retornado para o programa principal, que por sua vez exibirá o resultado na tela.
